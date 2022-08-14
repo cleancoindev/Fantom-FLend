@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Fantom-foundation/Fantom-FLend#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.5.1"
+    "@openzeppelin/contracts": "^4.7.3"
   }
 }
